@@ -1,0 +1,11 @@
+torch
+kobert-transformers
+sentencepiece
+transformers==4.40.0
+openai
+python-dotenv
+streamlit
+scikit-learn
+pandas
+scipy
+joblib
