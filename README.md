@@ -1,4 +1,5 @@
-※참고: SMS 스미싱 모델(smishing_kobert.pt)은 용량이 너무 커서 업로드가 안 됩니다! 구글 드라이브에 전체 코드를 올려놓았으니 참고 바랍니다. [[링크]](https://drive.google.com/file/d/1mIfYnPC4qemr0fFbXxB0vC0x1b8aePXg/view?usp=drive_link)
+※참고: SMS 스미싱 모델(smishing_kobert.pt)은 용량이 너무 커서 업로드가 안 됩니다!<br>
+구글 드라이브에 전체 코드를 올려놓았으니 참고 바랍니다. [[링크]](https://drive.google.com/file/d/1mIfYnPC4qemr0fFbXxB0vC0x1b8aePXg/view?usp=drive_link)
 
 ## 실행 명령어
 
