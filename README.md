@@ -8,7 +8,7 @@
 
 ## 개요
 
-SMS 스미싱 탐지 모델입니다.
+AI 기반 스미싱·피싱 탐지기 입니다.
 <img width="1333" height="836" alt="image" src="https://github.com/user-attachments/assets/98d8754f-d453-497e-b6ad-4f90afa0e430" />
 
 ## 구조도
